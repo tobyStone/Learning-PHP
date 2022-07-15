@@ -14,6 +14,6 @@
         <br>
         <br>
         <?php
-        print "The current date (American-style, sorry) is $currentDate"; ?></h1>
+        print "The current date (American-style) is $currentDate"; ?></h1>
     </body>
 </html>
