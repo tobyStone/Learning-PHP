@@ -2,7 +2,7 @@
     "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://w3.org/1999/xhmtl" xml:lang="en" lang="en">
     <head>
-        <title>Hello</title>
+        <title>Circling</title>
         <link rel="stylesheet" type = "text/css" href = "common.css"/>
     </head>
     <body>
