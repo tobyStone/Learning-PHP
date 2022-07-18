@@ -1,5 +1,5 @@
 # Learning-PHP
-range of exercises from "Beginning PHP 5.3" by Matt Doyle
+range of exercises from "Beginning PHP" by Matt Doyle
 
 Code courtesy of Matt Doyle.
 
