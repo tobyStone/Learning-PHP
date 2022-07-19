@@ -1,7 +1,7 @@
 # Learning-PHP
 range of exercises from "Beginning PHP" by Matt Doyle
 
-Code courtesy of Matt Doyle.
+Code courtesy of Matt Doyle, some extended through exercises.
 
 Range of PHP programs as learning exercises using WAMPServer and Visual Studio Code.
 
