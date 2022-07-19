@@ -10,9 +10,9 @@ Range of PHP programs as learning exercises using WAMPServer and Visual Studio C
 
 ![](https://github.com/tobyStone/Learning-PHP/blob/main/right_justification.PNG)
 
-![](https://github.com/tobyStone/Maths-inCoding-Website-Server/blob/main/front%20page%20maths%20inCoding.gif)
+![](https://github.com/tobyStone/Learning-PHP/blob/main/Fibonacci_sequence.PNG)
 
-![](https://github.com/tobyStone/Maths-inCoding-Website-Server/blob/main/front%20page%20maths%20inCoding.gif)
+![](https://github.com/tobyStone/Learning-PHP/blob/main/homing_pidgeon.PNG)
 
 Any feedback much appreciated.
 
