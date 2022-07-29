@@ -1,5 +1,5 @@
 # Learning-PHP
-range of exercises from "Beginning PHP" by Matt Doyle
+range of exercises from "Beginning PHP" by Matt Doyle, including MySQL
 
 Code courtesy of Matt Doyle, some extended through exercises.
 
