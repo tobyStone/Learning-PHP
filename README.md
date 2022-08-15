@@ -16,7 +16,7 @@ This example shows items added to MySQL, a connection between MySQL and the PHP 
 
 ![](https://github.com/tobyStone/Learning-PHP/blob/main/get_fruit.PNG)
 
-Below, a MySQL database was set up for a bookstore. This consisted of two tables: the details of the members (interests, favourite genre, first name, etc...), and a log for the times of access, etc... This last had to be tweaked in MySQL. The book it is based on ("Beginning PHP") sets out outdated MySQL code which did not run a TIMESTAMP. I, then, set this to DEFAULT CURRENT. 
+Below, a MySQL database was set up for a book club (the code for this is in the separate folder). This consisted of two tables: the details of the members (interests, favourite genre, first name, etc...), and a log for the times of access, etc... This last had to be tweaked in MySQL. The book it is based on ("Beginning PHP") sets out outdated MySQL code which did not run a TIMESTAMP. I, then, set this to DEFAULT CURRENT. 
 
 ![](https://github.com/tobyStone/Learning-PHP/blob/main/book_club_MySQL_access.PNG)
 
