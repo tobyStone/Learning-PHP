@@ -24,9 +24,9 @@ Below, a MySQL database was set up for a bookstore. This consisted of two tables
 
 The PHP, like the MySQL instructions, in the example were outdated so, to set up the below PHP interaction with the database, I had to refactor the hierachy of inheritance to make it shorter. This was because of an interaction between an older and depreciated syntax (Member::getValue()), an abstract class, and a static function derived from that class. I also changed the code up to (new Member)->getValue() etc... The results are below.
 
-![](https://github.com/tobyStone/Learning-PHP/blob/main/book_club_front_page1.PNG)
+![](https://github.com/tobyStone/Learning-PHP/blob/main/book_club_front_page_1.PNG)
 
-![](https://github.com/tobyStone/Learning-PHP/blob/main/book_club_front_page2.PNG)
+![](https://github.com/tobyStone/Learning-PHP/blob/main/book_club_front_page_2.PNG)
 
 ![](https://github.com/tobyStone/Learning-PHP/blob/main/book_club_deeeper_dive.PNG)
 
