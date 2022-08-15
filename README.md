@@ -18,17 +18,17 @@ This example shows items added to MySQL, a connection between MySQL and the PHP 
 
 Below, a MySQL database was set up for a bookstore. This consisted of two tables: the details of the members (interests, favourite genre, first name, etc...), and a log for the times of access, etc... This last had to be tweaked in MySQL. The book it is based on ("Beginning PHP") sets out outdated MySQL code which did not run a TIMESTAMP. I, then, set this to DEFAULT CURRENT. 
 
-![](https://github.com/tobyStone/Learning-PHP/blob/main/get_fruit.PNG)
+![](https://github.com/tobyStone/Learning-PHP/blob/main/book_club_MySQL_access.PNG)
 
-![](https://github.com/tobyStone/Learning-PHP/blob/main/get_fruit.PNG)
+![](https://github.com/tobyStone/Learning-PHP/blob/main/book_club_MySQL_details.PNG)
 
 The PHP, like the MySQL instructions, in the example were outdated so, to set up the below PHP interaction with the database, I had to refactor the hierachy of inheritance to make it shorter. This was because of an interaction between an older and depreciated syntax (Member::getValue()), an abstract class, and a static function derived from that class. I also changed the code up to (new Member)->getValue() etc... The results are below.
 
-![](https://github.com/tobyStone/Learning-PHP/blob/main/get_fruit.PNG)
+![](https://github.com/tobyStone/Learning-PHP/blob/main/book_club_front_page1.PNG)
 
-![](https://github.com/tobyStone/Learning-PHP/blob/main/get_fruit.PNG)
+![](https://github.com/tobyStone/Learning-PHP/blob/main/book_club_front_page2.PNG)
 
-![](https://github.com/tobyStone/Learning-PHP/blob/main/get_fruit.PNG)
+![](https://github.com/tobyStone/Learning-PHP/blob/main/book_club_deeeper_dive.PNG)
 
 Further examples of PHP programs...
 
