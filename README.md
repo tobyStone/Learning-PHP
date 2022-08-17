@@ -1,8 +1,6 @@
 # Learning-PHP
 This is a range of exercises from "Beginning PHP" by Matt Doyle, including MySQL, and from "PHP 7 in Easy Steps" by Mike McGrath.
 
-Code courtesy of Matt Doyle and Mike McGrath, some extended through exercises.
-
 For this range of PHP programs I have used WAMPServer and Visual Studio Code.
 
 In the below number sequence, I have coded a prime-finder in PHP which interrogates the numbers below the target number to see if they are factors of this number. To save (admittedly the very small amount of) processing power, this interrogation is capped at the square root of the target number.
