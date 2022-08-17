@@ -3,9 +3,9 @@ This is a range of exercises from "Beginning PHP" by Matt Doyle, including MySQL
 
 Code courtesy of Matt Doyle and Mike McGrath, some extended through exercises.
 
-Range of PHP programs as learning exercises using WAMPServer and Visual Studio Code.
+For this range of PHP programs I have used WAMPServer and Visual Studio Code.
 
-In this number sequence, I have coded a prime-finder in PHP which interrogates the numbers below the target number to see if they are factors of this number. To save (admittedly the very small amount of) processing power, this interrogation is capped at the square root of the target number.
+In the below number sequence, I have coded a prime-finder in PHP which interrogates the numbers below the target number to see if they are factors of this number. To save (admittedly the very small amount of) processing power, this interrogation is capped at the square root of the target number.
 
 
 ![](https://github.com/tobyStone/Learning-PHP/blob/main/number_sequence.PNG)
